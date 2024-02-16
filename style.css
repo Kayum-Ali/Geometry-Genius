@@ -1,0 +1,30 @@
+
+#Tringle, #rectengle, #parallelogram, #rombos, #pentagon, #ellipse{
+    transition: all 1s ease-in-out;
+}
+
+
+#Tringle:hover{
+    background-color: rgb(239, 113, 214);
+    color: black;
+}
+#rectengle:hover{
+    background-color: #8CB9BD;
+    color: black;
+}
+#parallelogram:hover{
+    background-color: coral;
+    color: black;
+}
+#pentagon:hover{
+    background-color: #D25380;
+    color: black;
+}
+#rombos:hover{
+    background-color: #B784B7;
+    color: black;
+}
+#ellipse:hover{
+    background-color: #535C91;
+    color: black;
+}
